@@ -116,3 +116,13 @@ C:\Users\decay\source\repos\Requisition_UE\Requisition_UE\obj\Debug\Requisition_
 C:\Users\decay\source\repos\Requisition_UE\Requisition_UE\obj\Debug\Requisition_UE.csproj.CopyComplete
 C:\Users\decay\source\repos\Requisition_UE\Requisition_UE\obj\Debug\Requisition_UE.dll
 C:\Users\decay\source\repos\Requisition_UE\Requisition_UE\obj\Debug\Requisition_UE.pdb
+C:\Users\roose\Desktop\CCPAP_Requisite\Requisition_UE\bin\Requisition_UE.dll.config
+C:\Users\roose\Desktop\CCPAP_Requisite\Requisition_UE\bin\Requisition_UE.dll
+C:\Users\roose\Desktop\CCPAP_Requisite\Requisition_UE\bin\Requisition_UE.pdb
+C:\Users\roose\Desktop\CCPAP_Requisite\Requisition_UE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\roose\Desktop\CCPAP_Requisite\Requisition_UE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\roose\Desktop\CCPAP_Requisite\Requisition_UE\obj\Debug\Requisition_UE.csproj.AssemblyReference.cache
+C:\Users\roose\Desktop\CCPAP_Requisite\Requisition_UE\obj\Debug\Requisition_UE.csproj.CoreCompileInputs.cache
+C:\Users\roose\Desktop\CCPAP_Requisite\Requisition_UE\obj\Debug\Requisition_UE.csproj.CopyComplete
+C:\Users\roose\Desktop\CCPAP_Requisite\Requisition_UE\obj\Debug\Requisition_UE.dll
+C:\Users\roose\Desktop\CCPAP_Requisite\Requisition_UE\obj\Debug\Requisition_UE.pdb

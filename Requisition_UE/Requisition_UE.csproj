@@ -69,6 +69,7 @@
   <ItemGroup>
     <Content Include="Contents\css\main.css" />
     <Content Include="default.aspx" />
+    <Content Include="FormDemande.aspx" />
     <Content Include="Global.asax" />
     <Content Include="VoirDemande.aspx" />
     <Content Include="VoirDemande_Executer.aspx" />
@@ -81,6 +82,13 @@
     </Compile>
     <Compile Include="default.aspx.designer.cs">
       <DependentUpon>default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FormDemande.aspx.cs">
+      <DependentUpon>FormDemande.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="FormDemande.aspx.designer.cs">
+      <DependentUpon>FormDemande.aspx</DependentUpon>
     </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
