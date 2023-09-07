@@ -28,6 +28,12 @@
                     <ul class="list-unstyled components">
                         <li> <a href="VoirDemande_Executer.aspx">Exécuté Une Demande</a></li>
                     </ul>
+                    <ul class="list-unstyled components">
+                        <li> <a href="#">Ajouter une Personne</a></li>
+                    </ul>
+                    <ul class="list-unstyled components">
+                        <li> <a href="#">Ajouter un Ministère</a></li>
+                    </ul>
                 </div>
                </div>
          </div>
