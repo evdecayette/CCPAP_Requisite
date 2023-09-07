@@ -3,7 +3,13 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
 
-    <div class="row">
+       <div class="row">
+        <div class="col-lg-2">
+        </div>
+
+        <div class="col-lg-8">
+
+            
         <div class="row g-2">
          <div class="col-md">
             <asp:Label ID="lbOrdre" runat="server" Text="A l'ordre de: "></asp:Label>
@@ -51,7 +57,7 @@
             <SortedDescendingHeaderStyle BackColor="#6F8DAE" />
         </asp:GridView>
     </div>
-    <div>
+    <div class="text-center" style="margin-left:90px">
         <asp:Label ID="lbTotal" runat="server" Text="Total: "></asp:Label>
     </div>
     
@@ -83,6 +89,10 @@
            <asp:Button ID="btnCancel" class="btn btn-outline-primary btn-lg" runat="server" Text="Cancel" />  
         </div>
     </div>
+        </div>
 
-</div>
+            <div class="col-lg-2">
+            </div>
+        </div>
+
 </asp:Content>
