@@ -71,6 +71,8 @@
     <Content Include="default.aspx" />
     <Content Include="FormDemande.aspx" />
     <Content Include="Global.asax" />
+    <Content Include="Inserer_Ministere.aspx" />
+    <Content Include="ListDemande.aspx" />
     <Content Include="VoirDemande.aspx" />
     <Content Include="VoirDemande_Executer.aspx" />
     <Content Include="Web.config" />
@@ -92,6 +94,20 @@
     </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Inserer_Ministere.aspx.cs">
+      <DependentUpon>Inserer_Ministere.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Inserer_Ministere.aspx.designer.cs">
+      <DependentUpon>Inserer_Ministere.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ListDemande.aspx.cs">
+      <DependentUpon>ListDemande.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ListDemande.aspx.designer.cs">
+      <DependentUpon>ListDemande.aspx</DependentUpon>
     </Compile>
     <Compile Include="MasterPage.Master.cs">
       <DependentUpon>MasterPage.Master</DependentUpon>
