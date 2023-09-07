@@ -23,6 +23,8 @@
                             <li><a href="default.aspx">Remplir Une Demande</a></li>
                             <li><a href="VoirDemande.aspx">Approuvé</a></li>
                             <li><a href="VoirDemande_Executer.aspx">Exécuté Une Demande</a></li>
+                            <li><a href="#"> Ajouter Une Personne</a></li>
+                            <li><a href="#">Ajouter Un Ministère</a></li>
                         </ul>
                     </div>
                </div>
