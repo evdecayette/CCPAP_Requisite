@@ -69,7 +69,10 @@
   <ItemGroup>
     <Content Include="Contents\css\main.css" />
     <Content Include="default.aspx" />
+    <Content Include="Forme_De_Demande.aspx" />
     <Content Include="Global.asax" />
+    <Content Include="Inserer_Une_Demande.aspx" />
+    <Content Include="Liste_De_Demande.aspx" />
     <Content Include="VoirDemande.aspx" />
     <Content Include="VoirDemande_Executer.aspx" />
     <Content Include="Web.config" />
@@ -82,8 +85,29 @@
     <Compile Include="default.aspx.designer.cs">
       <DependentUpon>default.aspx</DependentUpon>
     </Compile>
+    <Compile Include="Forme_De_Demande.aspx.cs">
+      <DependentUpon>Forme_De_Demande.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Forme_De_Demande.aspx.designer.cs">
+      <DependentUpon>Forme_De_Demande.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Inserer_Une_Demande.aspx.cs">
+      <DependentUpon>Inserer_Une_Demande.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Inserer_Une_Demande.aspx.designer.cs">
+      <DependentUpon>Inserer_Une_Demande.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Liste_De_Demande.aspx.cs">
+      <DependentUpon>Liste_De_Demande.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Liste_De_Demande.aspx.designer.cs">
+      <DependentUpon>Liste_De_Demande.aspx</DependentUpon>
     </Compile>
     <Compile Include="MasterPage.Master.cs">
       <DependentUpon>MasterPage.Master</DependentUpon>
