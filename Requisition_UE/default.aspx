@@ -3,14 +3,9 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
 
-      <div class="form-floating" style="width:25%" >
-          <select class="form-select" id="floatingSelect" aria-label="Choisissez un Ministère">
-            <option selected>Choisissez un Ministère</option>
-            <option value="1">One</option>
-            <option value="2">Two</option>
-            <option value="3">Three</option>
-          </select>
-          <label for="floatingSelect"></label>
+      <div class="col-md-6">
+          <h5>Choisissez un Ministère</h5>
+          <asp:DropDownList ID="ddlMinistere" runat="server" class="form-select" AutoPostBack="true" OnSelectedIndexChanged="ddlMinistere_SelectedIndexChanged"></asp:DropDownList>      
         </div>
-    
+
 </asp:Content>
