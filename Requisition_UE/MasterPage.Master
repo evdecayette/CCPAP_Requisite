@@ -4,6 +4,7 @@
 
 <html>
 <head runat="server">
+    <meta charset="UTF-8"/>
     <title> UE Requisition</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="Contents/css/main.css" rel="stylesheet" />
@@ -21,9 +22,9 @@
                        <div class="p-4">
                         <ul class="list-unstyled components">
                             <li><a href="default.aspx">Remplir Une Demande</a></li>
-                            <li><a href="VoirDemande.aspx">Approuvé</a></li>
-                            <li><a href="VoirDemande_Executer.aspx">Exécuté Une Demande</a></li>
-                            <li><a href="#"> Ajouter Une Personne</a></li>
+                            <li><a href="VoirDemande.aspx">Approuver</a></li>
+                            <li><a href="VoirDemande_Executer.aspx">Exécuter Une Demande</a></li>
+                            <li><a href="AjouterPersonne.aspx"> Ajouter Une Personne</a></li>
                             <li><a href="#">Ajouter Un Ministère</a></li>
                         </ul>
                     </div>
